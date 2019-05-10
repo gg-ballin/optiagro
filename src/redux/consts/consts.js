@@ -1,0 +1,2 @@
+export const CHANGE_SEARCH_FIELD = 'CHANGE_SEARCH_FIELD';
+export const FORM_ADD = 'FORM_ADD'
